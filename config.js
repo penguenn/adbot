@@ -1,8 +1,5 @@
-// dev token: NzMwNjY2OTA4Mjk4NTEwMzg5.Xwa3cA.2j5gp2oPLyewZQ28FojaUMN48QE
-//real token: NzI5NzU2MDg1NDg1MDQzODAy.XwaiFA.mEEqjxfSGgVamXbuw9XCtS09-mA
-
 module.exports = {
-    token: "NzI5NzU2MDg1NDg1MDQzODAy.XwaiFA.mEEqjxfSGgVamXbuw9XCtS09-mA",
+    token: process.env.token,
     prefix: "ad ",
     id: "729756085485043802",
     footerTxt: "☕ Cafe Development © 2020",
