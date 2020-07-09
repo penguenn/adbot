@@ -1,0 +1,7 @@
+{
+  "name": "AdBot",
+  "description": "Open-source Discord Bot for you to make money from your Discord Server",
+  "repository": "https://github.com/RJain12/adbot",
+  "logo": "https://media.discordapp.net/attachments/689293921787838640/730928337068752917/img_src_https___cdn.iconscout.com_icon_free_png-256_coding-317-517904.png__alt_Coding_Icon_of_Line_s.png?width=450&height=450",
+  "keywords": ["node", "discord", "discordbot", "nodejs", "discordjs"]
+}
