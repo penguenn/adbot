@@ -33,7 +33,7 @@ module.exports.run = async (client, message, _) => {
 							.setTimestamp()
 							.setFooter(footerTxt, footerImg);
 						m.channel.send(paypalEmbed).then(msg => msg.delete({ timeout: 45000 }));
-						m.channel.awaitMessages(m => m.author.id === message.author.id, { max: 1, time: 45000, errors: ['time'] })
+						m.channel.awaitMessages(ma => ma.author.id === message.author.id, { max: 1, time: 45000, errors: ['time'] })
 							.then(collected => {
 								collected.first().delete();
 								if (collected.first().content.toLowerCase() == 'cancel') {
