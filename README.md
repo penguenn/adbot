@@ -5,9 +5,11 @@
   <br>
   <br> 
 
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)] ![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)
  </div>
  
+ ![forthebadge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fbotsdiscord%2Fpledges&style=for-the-badge)
+
 __Bugs & Issues__: submit them through the project's issues tracker (gets you the Bug Hunter role in our server).<br>
 [![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)]( https://github.com/USER/REPO/issues )
 
