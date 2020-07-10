@@ -10,7 +10,8 @@
 ✅ Consider supporting us to keep this open-source and running! <span class="badge-patreon"><a href="https://patreon.com/botsdiscord" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
  </div>
 __Bugs & Issues__: submit them through the project's issues tracker (gets you the Bug Hunter role in our server).<br>
-[![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)]( https://github.com/RJain12/adbot/issues )
+
+![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)
 
 __Support & Questions__: join us in our Discord.<br>
 [![Chat](https://img.shields.io/discord/707836684435324952.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)]( https://discord.gg/q3M4NuE )
