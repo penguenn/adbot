@@ -5,11 +5,10 @@
   <br>
   <br> 
 
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)] ![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)
- </div>
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg) ![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)
  
- ![forthebadge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fbotsdiscord%2Fpledges&style=for-the-badge)
-
+✅ Consider supporting us to keep this open-source and running! <span class="badge-patreon"><a href="https://patreon.com/botsdiscord" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+ </div>
 __Bugs & Issues__: submit them through the project's issues tracker (gets you the Bug Hunter role in our server).<br>
 [![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)]( https://github.com/USER/REPO/issues )
 
