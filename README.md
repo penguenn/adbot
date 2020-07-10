@@ -3,19 +3,21 @@
   <br>
   <strong><i>Make money from your Discord server... using a Discord Bot.</i></strong>
   <br>
-  <br>
- </div>
- 
-  <a href="https://discord.gg/nBnUkV4">
-    <img src="https://img.shields.io/discord/707836684435324952.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
-  </a>
+  <br> 
 
   ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)
+ </div>
+ 
+__Bugs & Issues__: submit them through the project's issues tracker (gets you the Bug Hunter role in our server).<br>
+[![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)]( https://github.com/USER/REPO/issues )
+
+__Support & Questions__: join us in our Discord.<br>
+[![Chat](https://img.shields.io/discord/707836684435324952.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)]( https://discord.gg/q3M4NuE )
 
 Open-source Discord Bot for helping you make money from your Discord server!
 AdBot allows server members to watch ads, generating revenue for the server owner!
 
-The only way we are able to keep this project open-source is from your support. Consider donating to us on ko-fi <3
+**TO KEEP THIS OPEN-SOURCE, CONSIDER DONATING!**
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V21NNO3)
 
 **ADBOT** © 2020, Rishab Jain.
