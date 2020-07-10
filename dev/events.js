@@ -27,7 +27,7 @@ const shardReady = async (client, id) => {
 	});
 }
 
-const exit = async (code) => {
+const exit = async (code, client) => {
 	try {
 		console.info(`Disconnecting from Discord. All shards turning off.`);
 		const status = new Discord.MessageEmbed()
@@ -44,14 +44,6 @@ const exit = async (code) => {
 	} catch (error) {
 		console.error(error)
 	}
-
-	client.user.setPresence({
-		status: 'online',
-		activity: {
-			name: `ad money! | ad help`,
-			type: 'WATCHING'
-		}
-	});
 }
 
 const guildCreate = async (guild, client, embedColor, footerImg, footerTxt) => {
