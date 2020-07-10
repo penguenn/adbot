@@ -1,4 +1,4 @@
-module.exports = {
+{
   "type": "service_account",
   "project_id": "pure-fold-276506",
   "private_key_id": "7bb732b49e69482e12abc2b2dec69841b23a13fa",
