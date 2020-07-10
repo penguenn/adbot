@@ -13,14 +13,10 @@
 **Bugs & Issues**: submit them through the project's issues tracker (gets you the Bug Hunter role in our server).
 ![Issues](http://img.shields.io/github/issues/RJain12/adbot.svg)
 
-__Support & Questions__: join us in our Discord.<br>
-[![Chat](https://img.shields.io/discord/707836684435324952.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)]( https://discord.gg/q3M4NuE )
+__Support & Questions__: join us in our Discord.<br> [![Chat](https://img.shields.io/discord/707836684435324952.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)]( https://discord.gg/q3M4NuE )
 
 Open-source Discord Bot for helping you make money from your Discord server!
 AdBot allows server members to watch ads, generating revenue for the server owner!
-
-**TO KEEP THIS OPEN-SOURCE, CONSIDER DONATING!**
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V21NNO3)
 
 **ADBOT** © 2020, Rishab Jain.
 Authored and maintained by Rishab Jain (RJain#1234) with help from contributors.
