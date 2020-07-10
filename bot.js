@@ -25,8 +25,8 @@ client.on("error", (e) => console.error(`${error} ${e}`));
 client.on("warn", (w) => console.warn(`${warning} ${w}`));
 client.on("debug", (e) => console.info(e));
 process.on('unhandledRejection', error => console.error(`${err}Uncaught Promise Rejection`, error));
-process.on('exit', (code, client) => {
-  exit(code);
+process.on('exit', (code) => {
+  exit(code, client);
 })
 
 client.login(token);
