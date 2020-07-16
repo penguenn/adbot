@@ -44,7 +44,7 @@ module.exports.run = async (client, message, _) => {
     - WLVF#7958
     - Iara Daisuke#9999
 Special thanks to:
-    - **Iara Daisuke#9999** for HUGE financial contributions!
+    - **Iara Daisuke#9999** for HUGE financial contributions (over $500)!
             
 **For commands**, use \`ad help\`. To purchase AdBot premium, do \`ad premium\`.
 Want to support this bot? Consider donating 💓 <https://www.buymeacoffee.com/youtube>
