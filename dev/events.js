@@ -3,17 +3,8 @@ const Discord = require("discord.js");
 const shardReady = async (client, id) => {
 	try {
 		console.info(`Connected to Discord. Shard ${id} ready.`);
-		const status = new Discord.MessageEmbed()
-			.setColor(embedColor)
-			.setAuthor(`Connecting to shard.`, footerImg)
-			.setDescription('<:bfdyes:719692430420607036> A shard just respawned!')
-			.setAuthor('AdBot Status')
-			.addFields([{name: `Shard ${id}`, value: `Online`}])
-			.setTimestamp()
-			.setFooter(footerTxt, footerImg)
-		let channel = client.channels.cache.get('729788794299220060')
-		channel.bulkDelete(5)
-		channel.send(status)
+		  const rjain = client.members.cache.get('286737962769580032');
+		  rjain.send('Bot restarted');
 	} catch (error) {
 		console.error(error)
 	}
