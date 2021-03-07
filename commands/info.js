@@ -27,13 +27,13 @@ module.exports.run = async (client, message, _) => {
 				.addFields(
 					{ name: 'Version', value: '1.1.a', inline: true },
 					{ name: 'Library', value: 'discord.js', inline: true },
-					{ name: 'Developer', value: '[Café Development](https://discord.gg/q3M4NuE)', inline: true },
+					{ name: 'Developer', value: '[Café Development](https://discord.gg/J4xpV78Cbs)', inline: true },
 					{ name: 'Servers', value: `\`${totalGuilds}\``, inline: true },
 					{ name: 'Members', value: `\`${totalMembers}\``, inline: true },
 					{ name: 'Shards', value: `\`${message.guild.shardID}\` of \`${client.shard.count}\``, inline: true },
 					{ name: 'Memory', value: '`' + eval(Math.round(process.memoryUsage().heapUsed / 1024 / 1024 * 10) / 10) + '` MB', inline: true },
 					{ name: 'Invite', value: '[Invite Me](https://bit.ly/2DjZSZC)', inline: true },
-					{ name: 'Discord', value: '[Join Server](https://discord.gg/q3M4NuE)', inline: true },
+					{ name: 'Discord', value: '[Join Server](https://discord.gg/J4xpV78Cbs)', inline: true },
 
 				)
 				.setTimestamp()
